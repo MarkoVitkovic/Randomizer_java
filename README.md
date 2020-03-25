@@ -1,5 +1,5 @@
-# Hotel Resort
-> Project made with react. Hotel resort app. 
+# Randomizer
+> Java app made in android studio. Generate random number.
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,18 +12,13 @@
 * [Contact](#contact)
 
 ## General info
-Site made with react, node.js and CSS3. On front page you will find three types of rooms, go and check, and when you open one of them, 
-you will see info about that room, also in navbar you have "rooms" option, there are all rooms from hotel, you can search rooms by 
-filters, see image below.
+Mobile app that generate random number, write in JAVA as part of my learning, just simple app, not to much to say. Made in Android Studio.
 
 ## Screenshots
-![](https://github.com/MarkoVitkovic/react-hotelResort/blob/master/rooms.png)
+![](https://github.com/MarkoVitkovic/Randomizer_java/blob/master/random.png)
 
 ## Technologies
-* [React](https://reactjs.org/docs/getting-started.html) - version 16.13.1
-* [Node.js](https://nodejs.org/en/docs/) - version 13
-* [CSS](https://devdocs.io/css/) - version 3
-* [React-dom](https://github.com/facebook/react) - version 16.13.1
+* [JAVA](https://docs.oracle.com/en/java/) - version 7
 
 
 ## Setup
