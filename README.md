@@ -31,17 +31,18 @@ To create your new Android project, follow these steps:</br>
 
 1.Install the latest version of Android Studio.</br>
 2.In the Welcome to Android Studio window, click Start a new Android Studio project.</br>
-[](https://developer.android.com/training/basics/firstapp/images/studio-welcome_2x.png)</br>
+![](https://developer.android.com/training/basics/firstapp/images/studio-welcome_2x.png)</br>
 3.In the Select a Project Template window, select Empty Activity and click Next.</br>
 4.In the Configure your project window, complete the following:</br>
-*Enter "My First App" in the Name field.</br>
-*Enter "com.example.myfirstapp" in the Package name field.</br>
-*If you'd like to place the project in a different folder, change its Save location.</br>
-*Select either Java or Kotlin from the Language drop-down menu.</br>
-*Select the lowest version of Android your app will support in the Minimum SDK field.</br>
-*If your app will require legacy library support, mark the Use legacy android.support libraries checkbox.</br>
-*Leave the other options as they are.</br>
+* Enter "My First App" in the Name field.</br>
+* Enter "com.example.myfirstapp" in the Package name field.</br>
+* If you'd like to place the project in a different folder, change its Save location.</br>
+* Select either Java or Kotlin from the Language drop-down menu.</br>
+* Select the lowest version of Android your app will support in the Minimum SDK field.</br>
+* If your app will require legacy library support, mark the Use legacy android.support libraries checkbox.</br>
+* Leave the other options as they are.</br>
 5.Click Finish.</br>
+![](https://developer.android.com/training/basics/firstapp/images/studio-editor_2x.png)
 
 
 
