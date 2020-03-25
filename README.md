@@ -27,27 +27,24 @@ filters, see image below.
 
 
 ## Setup
-Open terminal(cmd) and navigate:</br>
-`npx create-react-app my-app`</br>
-`cd my-app`</br>
-`npm start`</br>
-Open source in Visual Studio Code.
+To create your new Android project, follow these steps:</br>
 
-## Available Scripts
+1.Install the latest version of Android Studio.</br>
+2.In the Welcome to Android Studio window, click Start a new Android Studio project.</br>
+[](https://developer.android.com/training/basics/firstapp/images/studio-welcome_2x.png)</br>
+3.In the Select a Project Template window, select Empty Activity and click Next.</br>
+4.In the Configure your project window, complete the following:</br>
+*Enter "My First App" in the Name field.</br>
+*Enter "com.example.myfirstapp" in the Package name field.</br>
+*If you'd like to place the project in a different folder, change its Save location.</br>
+*Select either Java or Kotlin from the Language drop-down menu.</br>
+*Select the lowest version of Android your app will support in the Minimum SDK field.</br>
+*If your app will require legacy library support, mark the Use legacy android.support libraries checkbox.</br>
+*Leave the other options as they are.</br>
+5.Click Finish.</br>
 
-In the project directory, you can run:
 
-npm start</br>
-npm test</br>
-npm run build</br>
-npm run eject</br>
-npm run build
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Code Examples
 Code:</br>
@@ -67,8 +64,7 @@ Code:</br>
            `          random = rand.nextInt(text) + 1;`</br>
             `         textView.setText("" + random);`</br>
              `    }`
-
-             `});`
+     `});`</br>
 
 
 ## Features
